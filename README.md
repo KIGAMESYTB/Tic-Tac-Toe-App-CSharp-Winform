@@ -4,5 +4,7 @@ You have the choice of playing with another player or playing against the comput
 This project was made in C# Winform via visual studio.
 
 ## Video Youtube :
-https://youtu.be/FEJcm7Qa5nc
+<a href="https://youtu.be/FEJcm7Qa5nc">
+  <img src="https://i9.ytimg.com/vi_webp/FEJcm7Qa5nc/mqdefault.webp?v=61b4b0ef&sqp=COjEp48G&rs=AOn4CLCFG98sVskZ06oG1ajCjPVFEKIHRA" />
+</a>
 
