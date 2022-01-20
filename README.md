@@ -3,6 +3,6 @@ This project is a desktop application of the famous game Tic Tac Toe. This proje
 You have the choice of playing with another player or playing against the computer. Different levels of difficulty are present in the game.
 This project was made in C# Winform via visual studio.
 
-##Video Youtube 
+## Video Youtube :
 https://youtu.be/FEJcm7Qa5nc
 
